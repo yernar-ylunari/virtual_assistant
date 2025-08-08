@@ -1,0 +1,12 @@
+aiogram
+python-dotenv
+aiohttp
+readability-lxml
+beautifulsoup4
+requests
+langdetect
+sentence-transformers
+faiss-cpu
+pyyaml
+transformers
+torch
